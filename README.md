@@ -1,5 +1,5 @@
-# Proyecto-Aplicaciones-Web
-Desarrollo de proyecto de practica 2 para empresa INDAMA 
+## Proyecto-Aplicaciones-Web
+### Desarrollo de proyecto de practica 2 para empresa INDAMA
 
 Backend: Node.js + Express.js
 Conocimientos previos: JavaScript y conceptos de backend.
@@ -23,7 +23,7 @@ Cloud: AWS o Firebase  despliegue backend de aplicaciones
 Facilidad de mantenimiento: Alta, gracias a las herramientas y la documentación de AWS.
 Costos: Varía según el uso, pero AWS ofrece diferentes planes y modelos de precios. Firebase incluye en su versión gratuita el despliegue de backend.
 
-Servidores archivos Nas 
+### Servidores archivos Nas 
 Otros factores según tu estructura inicial:
 Tamaño del proyecto: Flexible, el stack propuesto puede adaptarse a pequeños y grandes proyectos.
 Requisitos de tiempo respuesta del proyecto: Dependerá de la optimización, pero el stack es capaz de ofrecer buen rendimiento.
@@ -36,19 +36,19 @@ Comunidad de respaldo del stack: Cada base de datos tiene una comunidad activa, 
 
 En general, los costes de Firebase son más bajos que los costes de MongoDB. Esto se debe a que Firebase ofrece un modelo de precios de pago por uso, mientras que MongoDB ofrece un modelo de precios de pago por uso o licencia.
 
-Ventajas de Firebase
+### Ventajas de Firebase
 
 Facilidad de uso: Firebase es una plataforma muy fácil de usar, con SDK y documentación disponibles para una amplia gama de plataformas.
 Escalabilidad: Firebase está diseñado para escalar de manera automática según las necesidades de la aplicación.
 Seguridad: Firebase ofrece una serie de funciones de seguridad para proteger los datos de la aplicación.
 Coste: Firebase ofrece un modelo de precios de pago por uso que permite a los desarrolladores controlar los costes de su aplicación.
 
-Desventajas de Firebase
+### Desventajas de Firebase
 
 Flexibilidad: Firebase es una plataforma menos flexible que MongoDB.
 Rendimiento: MongoDB puede ofrecer un rendimiento superior a Firebase para aplicaciones con un gran volumen de datos o un alto rendimiento.
 
-Recomendaciones
+### Recomendaciones
 
 Firebase: Es una buena opción para aplicaciones pequeñas y medianas, correspondientes a estos casos,  que requieren una rápida puesta en marcha, una escalabilidad fácil y un bajo coste, que debe ser incorporado en el contrato de google dado que Google Workspace Business Standard no lo incluye.
 MongoDB: Es una buena opción para aplicaciones grandes y complejas que requieren un alto rendimiento y pueden manejar grandes volúmenes de datos.
